@@ -57,3 +57,5 @@ b) Liệt kê các hoán vị của Tập hợp các số từ 1 .. N.
 Ví dụ cho câu b: Các hoán ví của 3 phần tử là:(1,2,3), (1,3,2) ,(2,1,3),(2,3,1),(3,1,2),(3,2,1)
 
 
+
+
