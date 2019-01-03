@@ -7,7 +7,7 @@
 
 <img src= "1.png" margin="0px auto" witdh="500px" height ="400px">
 
-https://imgur.com/a/5EZv2Sd
+<img src="https://imgur.com/a/5EZv2Sd">
 
 
 
